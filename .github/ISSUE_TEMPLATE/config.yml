@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Downloads
+    url: https://modrinth.com/mod/magneutica
+    about: The mod itself is on Modrinth. This repo is only for bugs.
