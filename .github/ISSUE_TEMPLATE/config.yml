@@ -2,5 +2,5 @@ blank_issues_enabled: false
 
 contact_links:
   - name: Downloads
-    url: https://modrinth.com/mod/magneutica
+    url: https://modrinth.com/mod/create-magneutica
     about: The mod itself is on Modrinth. This repo is only for bugs.
