@@ -1,0 +1,11 @@
+name: Bug report
+description: Report a bug in Magneutica
+labels: ["bug"]
+body:
+  - type: textarea
+    id: report
+    attributes:
+      label: What happened
+      description: Describe the bug and drag your latest.log into this box.
+    validations:
+      required: true
